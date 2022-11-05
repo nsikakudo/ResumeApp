@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Resume App</string>
+    <string name="my_resume">Resume</string>
+    <string name="my_image">img</string>
+    <string name="name">Nombre: Nsikak Nkereuwem Udo</string>
+    <string name="userName">Nombre de usuario: Edidem</string>
+    <string name="title">Título: Desarrolladora de Android</string>
+    <string name="about_me">SOBRE MÍ</string>
+    <string name="me">Soy un desarrollador de Android con más de 6 meses de experiencia y comprensión de Android Native
+        Desarrollo de aplicaciones. También tengo experiencia en Diseño, Desarrollo, Pruebas, Mantenimiento/Mejora
+        y en el desarrollo de aplicaciones de Android utilizando complementos de Android Studio, XML, Android SDK y ADT.
+    </string>
+    <string name="experience">Experiencia</string>
+    <string name="skills">Habilidades</string>
+    <string name="projects">Proyectos</string>
+    <string name="contact">Contacto</string>
+    <string name="Education">Educación</string>
+
+    <string name="experience1">Experiencia:</string>
+    <string name="position">Desarrolladora junior de Android</string>
+    <string name="year">2022 - Presente</string>
+    <string name="pEx1">- Responder a las necesidades de aplicaciones de los clientes con miras a las soluciones más viables y eficaces.</string>
+    <string name="pEx2">- Coordine con los miembros del equipo para crear aplicaciones de clientes de manera coordinada y oportuna.</string>
+    <string name="pEx3">- Asegúrese de que las aplicaciones se prueben para cumplir con los requisitos de rendimiento total.</string>
+    <string name="pEx4">- Optimice la interfaz de las aplicaciones con una variedad de sistemas para garantizar un uso flexible y ágil.</string>
+
+    <string name="position1">Profesora de fluidez en internet</string>
+    <string name="year1">2020 – 2021</string>
+    <string name="pEx01">- Enseñé a las personas mayores a ser fluidos en el uso de Internet a través de un programa de educación comunitaria.</string>
+    <string name="pEx02">- Plan de estudios interpretado para ser presentado a las clases..</string>
+    <string name="pEx03">- Entusiasmo de los estudiantes generado por el uso de Internet..</string>
+
+    <string name="education">Educación</string>
+    <string name="bsc">Licenciatura en Contabilidad</string>
+    <string name="bootcamp">Campamento de Kotlin</string>
+    <string name="zuri">Pasantía Zuri</string>
+    <string name="year001">2019</string>
+    <string name="year002">2021</string>
+    <string name="year003">2022</string>
+
+    <string name="skills2">Habilidades</string>
+    <string name="skill1">- Experto en la funcionalidad de diseño de Java SDK, incluido el ciclo de vida completo de la actividad</string>
+    <string name="skill2">- Escritor claro y conciso de comunicaciones y documentación de desarrollo.</string>
+    <string name="skill3">- Conocedor del desarrollo back-end y la documentación.</string>
+    <string name="skill4">- Facilitador entusiasta de soluciones para clientes.</string>
+    <string name="skill5">- Usuario analítico de la implementación del control de versiones de GIT</string>
+    <string name="skill6">- Colaborador consumado con los clientes, la gerencia y los miembros del equipo.</string>
+
+
+    <string name="accomplish1">- Aplicación Calculadora D.O.B - Diseñado, desarrollado y publicado un nuevo Android
+        aplicación llamada "Calculadora de fecha de nacimiento" para tabletas y teléfonos móviles con Android
+        que le da al usuario la cantidad de horas y minutos que ha estado en la tierra.</string>
+    <string name="accomplish2">- Aplicación de calculadora: diseño, desarrollo y publicación de una nueva calculadora de Android
+        aplicación para tabletas android y teléfonos móviles.</string>
+    <string name="accomplish3">- Aplicación Trivia Game: diseñó, desarrolló y publicó un nuevo Android
+        aplicación llamada "Aplicación de juego de preguntas" para tabletas Android y teléfonos móviles. Los usuarios pueden
+        use esta aplicación para juegos nocturnos y juegos al aire libre.</string>
+
+    <string name="email">udonsikak13@gmail.com</string>
+    <string name="phone">+234–8052–138-136</string>
+    <string name="whatsapp">+234-8052-138-136</string>
+    <string name="behance">www.behance.net/nsikakudo</string>
+    <string name="linkedIn">www.linkedin.com/in/nsikak-udo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

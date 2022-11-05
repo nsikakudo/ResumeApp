@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:background="@color/light_grey">
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:elevation="12dp"
+                app:cardCornerRadius="800sp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="3dp"
+                >
+
+                <ImageView
+                    android:layout_height="200dp"
+                    android:layout_width="200dp"
+                    android:id="@+id/imageView1"
+                    android:src="@drawable/resume"
+                    android:contentDescription="Resume Image"
+                    android:background="@drawable/default_border_bg"
+                    />
+
+
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:background="@color/light_grey"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="50dp"
+
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/name"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:fontFamily="serif" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/userName"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:fontFamily="serif"
+                    android:layout_marginTop="10dp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/title"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    app:fontFamily="serif"
+                    android:layout_marginTop="10dp"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="15dp"
+            android:background="@color/white">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/about_me"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                app:fontFamily="serif" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="0dp"
+                android:text="@string/me"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                app:autoSizeTextType="uniform"
+
+                app:fontFamily="sans-serif-condensed" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="600dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginStart="60dp"
+            android:orientation="horizontal"
+            >
+
+            <Button
+                android:id="@+id/btnExperience"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="180dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border_bg"
+                android:text="@string/experience"
+                android:textSize="12sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                app:backgroundTint="@color/light_grey"
+                tools:ignore="SmallSp" />
+
+            <Button
+                android:id="@+id/btnSkills"
+                android:layout_width="185dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border_bg"
+                android:text="@string/skills"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_margin="4dp"
+                app:backgroundTint="@color/light_grey"
+                />
+
+            <Button
+                android:id="@+id/btnEdu"
+                android:layout_width="180dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border_bg"
+                android:text="@string/Education"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_margin="4dp"
+                app:backgroundTint="@color/light_grey"
+                />
+
+            <Button
+                android:id="@+id/btnProject"
+                android:layout_width="180dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border_bg"
+                android:text="@string/projects"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_margin="4dp"
+                app:backgroundTint="@color/light_grey"
+                />
+
+            <Button
+                android:id="@+id/btnContact"
+                android:layout_width="180dp"
+                android:layout_height="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_border_bg"
+                android:text="@string/contact"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_margin="2dp"
+                app:backgroundTint="@color/light_grey"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

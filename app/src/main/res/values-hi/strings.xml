@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Resume App</string>
+    <string name="my_resume">Resume</string>
+    <string name="my_image">img</string>
+    <string name="name">नाम: Nsikak Nkereuwem Udo</string>
+    <string name="userName">उपयोगकर्ता नाम: Edidem</string>
+    <string name="title">शीर्षक: एंड्रॉइड डेवलपर</string>
+    <string name="about_me">मेरे बारे मेँ</string>
+    <string name="me">
+        मैं एक Android डेवलपर हूं, जिसके पास Android नेटिव का 6 महीने से अधिक का अनुभव और समझ है
+        अनुप्रयोग विकास। मुझे डिजाइन, विकास, परीक्षण, रखरखाव / वृद्धि में भी अनुभव है
+        और एंड्रॉइड स्टूडियो, एक्सएमएल, एंड्रॉइड एसडीके और एडीटी प्लगइन्स का उपयोग करके एंड्रॉइड एप्लिकेशन विकसित करने में।
+    </string>
+    <string name="experience">अनुभव</string>
+    <string name="skills">कौशल</string>
+    <string name="projects">परियोजनाओं</string>
+    <string name="contact">संपर्क करना</string>
+    <string name="Education">शिक्षा</string>
+
+    <string name="experience1">अनुभव:</string>
+    <string name="position">जूनियर एंड्रॉइड डेवलपर</string>
+    <string name="year">2022 - वर्तमान</string>
+    <string name="pEx1">- सबसे व्यवहार्य और प्रभावी समाधानों को ध्यान में रखते हुए अनुप्रयोगों के लिए ग्राहक की जरूरतों का जवाब दें।</string>
+    <string name="pEx2">- एक समन्वित और समयबद्ध तरीके से क्लाइंट ऐप बनाने के लिए टीम के सदस्यों के साथ समन्वय करें।</string>
+    <string name="pEx3">- सुनिश्चित करें कि कुल प्रदर्शन आवश्यकताओं को पूरा करने के लिए ऐप्स का परीक्षण किया जाता है।</string>
+    <string name="pEx4">- लचीला और चुस्त उपयोग सुनिश्चित करने के लिए विभिन्न प्रणालियों के साथ ऐप्स के इंटरफेस को अनुकूलित करें।</string>
+
+    <string name="position1">इंटरनेट प्रवाह शिक्षक</string>
+    <string name="year1">2020 – 2021</string>
+    <string name="pEx01">- एक सामुदायिक शिक्षा कार्यक्रम के माध्यम से वरिष्ठों को इंटरनेट का उपयोग करने में पारंगत होना सिखाया।</string>
+    <string name="pEx02">- व्याख्या किए गए पाठ्यक्रम को कक्षाओं में प्रस्तुत किया जाना है।</string>
+    <string name="pEx03">- इंटरनेट के उपयोग के लिए छात्रों में उत्साह पैदा किया।</string>
+
+    <string name="education">शिक्षा</string>
+    <string name="bsc">लेखांकन में बीएससी</string>
+    <string name="bootcamp">कोटलिन बूटकैंप</string>
+    <string name="zuri">ज़ूरी इंटर्नशिप</string>
+    <string name="year001">2019</string>
+    <string name="year002">2021</string>
+    <string name="year003">2022</string>
+
+    <string name="skills2">कौशल</string>
+    <string name="skill1">- जावा एसडीके डिजाइन कार्यक्षमता में विशेषज्ञ, जिसमें पूर्ण गतिविधि जीवनचक्र शामिल है</string>
+    <string name="skill2">- संचार और विकास प्रलेखन के स्पष्ट और संक्षिप्त लेखक</string>
+    <string name="skill3">- बैक-एंड डेवलपमेंट और प्रलेखन के बारे में जानकार</string>
+    <string name="skill4">- ग्राहक समाधान के लिए उत्साही सूत्रधार</string>
+    <string name="skill5">- जीआईटी संस्करण नियंत्रण कार्यान्वयन का विश्लेषणात्मक उपयोगकर्ता</string>
+    <string name="skill6">- ग्राहकों, प्रबंधन और टीम के सदस्यों के साथ घाघ सहयोगी</string>
+
+
+    <string name="accomplish1">- D.O.B कैलकुलेटर ऐप - एक नया Android . डिज़ाइन, विकसित और प्रकाशित किया गया
+        एंड्रॉइड टैबलेट और मोबाइल फोन के लिए "डेट ऑफ बर्थ कैलकुलेटर" नामक एप्लिकेशन
+        जो उपयोगकर्ता को पृथ्वी पर रहने के घंटों और मिनटों की संख्या देता है।</string>
+    <string name="accomplish2">- कैलकुलेटर ऐप - एक नया एंड्रॉइड कैलकुलेटर डिज़ाइन, विकसित और प्रकाशित किया गया
+        एंड्रॉइड टैबलेट और मोबाइल फोन के लिए आवेदन।</string>
+    <string name="accomplish3">- ट्रिविया गेम ऐप - एक नया android . डिज़ाइन, विकसित और प्रकाशित किया गया
+        एंड्रॉइड टैबलेट और मोबाइल फोन के लिए "ट्रिविया गेम ऐप" नामक एप्लिकेशन। उपयोगकर्ता कर सकते हैं
+        इस ऐप का उपयोग गेम्स नाइट और आउटडोर गेम्स के लिए करें।</string>
+
+    <string name="email">udonsikak13@gmail.com</string>
+    <string name="phone">+234–8052–138-136</string>
+    <string name="whatsapp">+234-8052-138-136</string>
+    <string name="behance">www.behance.net/nsikakudo</string>
+    <string name="linkedIn">www.linkedin.com/in/nsikak-udo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

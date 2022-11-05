@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Resume App</string>
+    <string name="my_resume">Resume</string>
+    <string name="my_image">img</string>
+    <string name="name">Name: Nsikak Nkereuwem Udo</string>
+    <string name="userName">Username: Edidem</string>
+    <string name="title">Title: Android Developer</string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="me">
+        I am an Android Developer with over 6 months of experience and understanding of Android Native
+        Applications development. I am also experienced in Design, Development, Testing, Maintenance/Enhancement
+        and in developing Android applications using Android Studio, XML, Android SDK and ADT plugins.
+    </string>
+    <string name="experience">Experience</string>
+    <string name="skills">Skills</string>
+    <string name="projects">Projects</string>
+    <string name="contact">Contact</string>
+    <string name="Education">Education</string>
+
+    <string name="experience1">Experience:</string>
+    <string name="position">Junior Android Developer</string>
+    <string name="year">2022 - Present</string>
+    <string name="pEx1">- Respond to client needs for applications with an eye to the most feasible and effective solutions.</string>
+    <string name="pEx2">- Coordinate with team members to create client apps in a coordinated and timely manner.</string>
+    <string name="pEx3">- Ensure that apps are tested to meet total performance requirements.</string>
+    <string name="pEx4">- Optimize the interfacing of the apps with a variety of systems to ensure flexible and agile use.</string>
+
+    <string name="position1">Internet Fluency Teacher</string>
+    <string name="year1">2020 – 2021</string>
+    <string name="pEx01">- Taught seniors to be fluent in using the internet through a community education program.</string>
+    <string name="pEx02">- Interpreted curriculum to be presented to classes.</string>
+    <string name="pEx03">- Generated student enthusiasm for internet use.</string>
+
+    <string name="education">EDUCATION</string>
+    <string name="bsc">BSc in Accounting</string>
+    <string name="bootcamp">Kotlin Bootcamp</string>
+    <string name="zuri">Zuri Internship</string>
+    <string name="year001">2019</string>
+    <string name="year002">2021</string>
+    <string name="year003">2022</string>
+
+    <string name="skills2">SKILLS</string>
+    <string name="skill1">- Expert at Java SDK design functionality, including the full activity lifecycle</string>
+    <string name="skill2">- Clear and concise writer of communications and development documentation</string>
+    <string name="skill3">- Knowledgeable about back-end development and documentation</string>
+    <string name="skill4">- Enthusiastic facilitator for client solutions</string>
+    <string name="skill5">- Analytical user of GIT version control implementation</string>
+    <string name="skill6">- Consummate collaborator with clients, management, and team members</string>
+
+
+    <string name="accomplish1">- D.O.B Calculator App - Designed, developed and published a new android
+        application called "Date Of Birth Calculator" for android tablets and mobile phones
+        which gives a user the number of hours and minutes he/she has stayed on earth.</string>
+    <string name="accomplish2">- Calculator App - Designed, developed and published a new android Calculator
+        application for android tablets and mobile phones.</string>
+    <string name="accomplish3">- Trivia Game App - Designed, developed and published a new android
+        application called "Trivia Game App" for android tablets and mobile phones. Users can
+        use this app for games night and outdoors games.</string>
+
+    <string name="email">udonsikak13@gmail.com</string>
+    <string name="phone">+234–8052–138-136</string>
+    <string name="tweetLink" translatable="false">www.twitter.com/UdoNsikak3?t</string>
+    <string name="behance">www.behance.net/nsikakudo</string>
+    <string name="linkedIn">www.linkedin.com/in/nsikak-udo</string>
+
+    <string name="spanish" translatable="false">Spanish</string>
+    <string name="hindi" translatable="false">Hindi</string>
+    <string name="french" translatable="false">French</string>
+
+
+</resources>
