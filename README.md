@@ -41,7 +41,7 @@ The project leverages the following components and libraries :
 
 
 You can try out the application on your device through the link below;
-*  [Download link](https://github.com/nsikakudo/resumeapp/raw/main/app/debug.apk)
+*  [Download link](https://github.com/nsikakudo/resumeapp/raw/main/app/app-debug.apk)
 
 ## Challenges 
 *  Setting up the Dark and Light Theme using Material Theme. 
